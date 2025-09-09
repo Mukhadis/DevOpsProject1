@@ -83,3 +83,9 @@ kubectl apply -f manifests/pod-alerts.yaml
 ```
 
 Alerts will appear in Alertmanager, included in the Helm release.
+
+![image alt](https://github.com/Mukhadis/DevOpsProject1/blob/main/Screenshot%202025-09-09%20at%2013.35.32.png?raw=true)
+
+👤 Mukhadis Yaru – Aspiring Cloud/ DevOps Engineer
+
+LinkedIn: https://www.linkedin.com/in/mukhadis-yaru/
